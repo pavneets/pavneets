@@ -112,9 +112,9 @@ Built enterprise e-commerce applications using Java/J2EE, Oracle, and WebSphere 
 `Power BI` `Tableau` `Grafana` `ADX Dashboards`  
 `Excel` `R` `SAS` `Weka`
 
-## 🔬 Selected Research Projects
+## 🔬 Selected Doctoral Research Projects
 
-### 📈 Software Analytics & Statistical Modeling
+### 📈 Software Analytics & Statistical Modeling (<a href="https://12cc36b8-db35-23db-49d4-2c957953f0ab.filesusr.com/ugd/775ac2_e7d6f55c3b1344d695847d4f438728b2.pdf" target="_blank" rel="noopener noreferrer">Paper</a>)
 - Developed negative binomial regression models across **628 real-world projects**, covering 85M+ lines of source code and 3M+ commits.
 - Investigated relationships between software usage patterns and project outcomes.
 - Applied variance inflation factor checks and weighted effects coding to strengthen statistical validity.
