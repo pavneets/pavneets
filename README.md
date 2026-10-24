@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kochharps/">LinkedIn</a> •
-  <a href="https://kochharps.wixsite.com/pavneet">Website</a> •
-  <a href="https://scholar.google.com/citations?user=hYJGYnAAAAAJ">Google Scholar</a> •
-  <a href="https://dblp.org/">DBLP</a>
+  <a href="https://www.linkedin.com/in/kochharps/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  <a href="https://kochharps.wixsite.com/pavneet" target="_blank" rel="noopener noreferrer">Website</a> •
+  <a href="(https://goo.gl/hYJGYn)" target="_blank" rel="noopener noreferrer">Google Scholar</a> •
+  <a href="https://goo.gl/TRI2q5" target="_blank" rel="noopener noreferrer">DBLP</a>
 </p>
 
 ---
@@ -178,8 +178,8 @@ I'm interested in applied machine learning, production AI, anomaly detection, in
 - 💼 LinkedIn: [linkedin.com/in/kochharps](https://www.linkedin.com/in/kochharps/)
 - 🌍 Website: [kochharps.wixsite.com/pavneet](https://kochharps.wixsite.com/pavneet)
 - 🐙 GitHub: [github.com/pavneets](https://github.com/pavneets)
-- 📚 Google Scholar: [View Publications](https://scholar.google.com/citations?user=hYJGYnAAAAAJ)
-- 🔬 DBLP: [View Research Profile](https://dblp.org/)
+- 📚 Google Scholar: [View Publications](https://goo.gl/hYJGYn)
+- 🔬 DBLP: [View Research Profile](https://goo.gl/TRI2q5)
 
 ---
 
