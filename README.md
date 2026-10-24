@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kochharps/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
   <a href="https://kochharps.wixsite.com/pavneet" target="_blank" rel="noopener noreferrer">Website</a> •
-  <a href="(https://goo.gl/hYJGYn)" target="_blank" rel="noopener noreferrer">Google Scholar</a> •
+  <a href="https://goo.gl/hYJGYn" target="_blank" rel="noopener noreferrer">Google Scholar</a> •
   <a href="https://goo.gl/TRI2q5" target="_blank" rel="noopener noreferrer">DBLP</a>
 </p>
 
