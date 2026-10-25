@@ -37,7 +37,7 @@ I enjoy working at the intersection of machine learning research, production eng
 ## 💼 Professional Experience
 
 ### Microsoft — Data Scientist/Machine Learning Engineer
-*February 2018 – Present *
+February 2018 – Present
 
 - Lead the end-to-end development and operation of **SAFE (Syslog Anomaly Finder and Extractor)**, an NLP/ML-based unsupervised anomaly detection system processing approximately **2 TB of production network telemetry daily**.
 - Design scalable batch and real-time data pipelines using Azure Data Factory, Event Hubs, and Azure Data Explorer (Kusto).
