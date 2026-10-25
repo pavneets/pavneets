@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Scientist/Machine Learning Engineer at **Microsoft**, with a PhD in Information Systems from Singapore Management University and research experience at Carnegie Mellon University.
+I'm a Data Scientist/Machine Learning Engineer at **Microsoft**, with a PhD in Information Systems from Singapore Management University and research residency at Carnegie Mellon University.
 
 I specialize in taking machine learning systems from research to production, combining applied ML, statistical reasoning, data engineering, and software engineering to solve complex real-world problems.
 
